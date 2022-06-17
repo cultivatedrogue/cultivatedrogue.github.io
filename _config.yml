@@ -9,10 +9,11 @@ minimal_mistakes_skin    : "plum" # "default","air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en"
+logo                     : "/assets/images/Handplant.png"
 title                    : "Cultivated Rogue"
 title_separator          : "-"
 name                     : "Anneke Brown"
-description              : "Gardening without borders. Home of the Fight Club school of permaculture."
+description              : "Gardening without borders. Permaculture, alternate history, maker, LGBTQ."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -86,8 +87,8 @@ author:
   name             : "Anneke Brown"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "What can I say? I exist with enthusiasm and ceaseless hunger for understanding. Sometimes I make things."
-  location         : Sol no.3, Milky way, Laniakea
-  email            : cultivatedrogue@gmail.com
+  location         : "Sol no.3, Milky way, Laniakea"
+  email            : "cultivatedrogue@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
