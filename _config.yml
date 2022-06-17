@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "dirt" # "default","air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "plum" # "default","air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en"
@@ -85,9 +85,10 @@ analytics:
 author:
   name             : "Anneke Brown"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Greetings! I use this site to store my internet treasure."
-  location         : "A tree, rather large, cracked by the strains of time. The leaves rustle with a sound not unlike rain."
-  email            :
+  bio              : "What can I say? I exist with enthusiasm and ceaseless hunger for understanding. Sometimes I make things."
+  location         : "A tree, rather large, cracked"
+  location         : "by the strains of time. The leaves rustle with a sound not unlike rain."
+  email            : cultivatedrogue@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -96,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # github username, "my_github_username"
+  github           : # github username, "cultivatedrogue"
   gitlab           :
   google_plus      :
   keybase          :
