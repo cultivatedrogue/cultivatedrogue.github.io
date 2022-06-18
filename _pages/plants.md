@@ -1,0 +1,4 @@
+---
+permalink: /plants/
+title: "Plants"
+---
