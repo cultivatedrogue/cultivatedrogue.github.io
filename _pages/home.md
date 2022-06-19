@@ -12,22 +12,22 @@ excerpt: >
   Permaculture, native plants of the midwest, amateur makes, and enthusiastic bullshit. Welcome to my corner of the Internet!<br />
   <small> Choose your own adventure:</small>
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
+  - #image_path: /assets/images/mm-customizable-feature.png
+    #alt: "customizable"
     title: "What was that about plants?"
     excerpt: "An Internet citizen after my own heart."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
+  - #image_path: /assets/images/mm-responsive-feature.png
+    #alt: " "
     title: "Who are you?"
     excerpt: "and what do you want?"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
+  - #image_path: /assets/images/mm-free-feature.png
+    #alt: "100% free"
     title: "Bullshit? :D"
     excerpt: "Ludicrous alternate history, obscure memes, and frankly implausible lies."
     url: "/docs/license/"
