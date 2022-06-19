@@ -10,7 +10,7 @@ header:
       url: "/docs/quick-start-guide/"
 excerpt: >
   Permaculture, native plants of the midwest, amateur makes, and enthusiastic bullshit. Welcome to my corner of the Internet!<br />
-  <small><a Choose your own adventure:</a></small>
+  <small> Choose your own adventure:</small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
