@@ -13,7 +13,7 @@ logo                     : "/assets/images/Handplant.png"
 title                    : "Cultivated Rogue"
 title_separator          : "-"
 name                     : "Anneke Brown"
-description              : "Gardening without borders. Permaculture, alternate history, maker, LGBTQ."
+description              : "Gardening without borders. Permaculture, polymath, maker, LGBTQ."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
+  where else to find me          : rebrand.ly/r1ckr0l13r
 
 # Reading Files
 include:
