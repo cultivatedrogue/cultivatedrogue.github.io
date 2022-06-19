@@ -14,16 +14,16 @@ excerpt: >
 feature_row:
   - #image_path: /assets/images/mm-customizable-feature.png
     #alt: "customizable"
-    title: "What was that about plants?"
+    title: "Show me the cool things."
     excerpt: "An Internet citizen after my own heart."
-    url: "/docs/configuration/"
+    url: "/plants/"
     btn_class: "btn--primary"
     btn_label: "Pg. 15"
   - #image_path: /assets/images/mm-responsive-feature.png
     #alt: " "
     title: "Who are you?"
     excerpt: "and what do you want?"
-    url: "/docs/layouts/"
+    url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Pg. 71"
   - #image_path: /assets/images/mm-free-feature.png
