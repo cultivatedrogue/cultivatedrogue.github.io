@@ -6,6 +6,16 @@ main:
     url: /posts/
   - title: "Source Code"
     url: https://github.com/limyunkai19/minimal-mistakes-jekyll
+  - title: "Plants"
+    url: /plants/
+  - title: "Conlang"
+    url: /conlang/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "Makes"
+    url: /makes/
+  - title: "Polymathery"
+    url: /poly/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
