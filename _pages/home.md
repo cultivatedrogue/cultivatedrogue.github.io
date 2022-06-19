@@ -27,13 +27,14 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Pg. 71"
-  - #image_path: /assets/images/mm-free-feature.png
+   - #image_path: /assets/images/mm-free-feature.png
     #alt: "100% free"
     title: "I want to play the CYOA."
     excerpt: "An adventure in your browser."
-    url: "/docs/license/"
+    url: "/CYOA/"
     btn_class: "btn--primary"
-    btn_label: "Pg. 1"      
+    btn_label: "Pg. 1" 
+    
 ---
 
 {% include feature_row %}
