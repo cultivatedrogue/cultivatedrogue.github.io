@@ -5,10 +5,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/WEB misty-conifer-forest.jpg
-  #text_color: black
-  actions:
-  - label: "<i class='fas fa-download'></i> Install now"
-    url: "/docs/quick-start-guide/"
+ 
 excerpt: >
   Permaculture, native plants of the midwest, self-teaching, amateur makes, and enthusiastic bullshit. Welcome to my corner of the Internet!<br />
   <small> Choose your own adventure:</small>
