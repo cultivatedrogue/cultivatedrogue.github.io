@@ -18,21 +18,21 @@ feature_row:
     excerpt: "An Internet citizen after my own heart."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Pg. 15"
   - #image_path: /assets/images/mm-responsive-feature.png
     #alt: " "
     title: "Who are you?"
     excerpt: "and what do you want?"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Pg. 71"
   - #image_path: /assets/images/mm-free-feature.png
     #alt: "100% free"
-    title: "Bullshit? :D"
-    excerpt: "Ludicrous alternate history, obscure memes, and frankly implausible lies."
+    title: "I want to play the CYOA."
+    excerpt: "An adventure in your browser."
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Pg. 1"      
 ---
 
 {% include feature_row %}
