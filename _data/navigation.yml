@@ -14,8 +14,8 @@ main:
     url: /gallery/
   - title: "Makes"
     url: /makes/
-  - title: "Polymathery"
-    url: /poly/
+  - title: "Self-teaching"
+    url: /self-teaching/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
